@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: books_db_source
+    database: BOOKS_DB # تأكد أن هذا يطابق تماماً اسم قاعدة البيانات في Snowflake
+    schema: RAW_DATA # تأكد أن هذا يطابق تماماً اسم المخطط في Snowflake
+    tables:
+      - name: BOOKS_RAW # تأكد أن هذا يطابق تماماً اسم الجدول في Snowflake
+        description: "Raw book data scraped from books.toscrape.com"
