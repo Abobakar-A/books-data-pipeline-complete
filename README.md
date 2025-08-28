@@ -9,6 +9,10 @@ The pipeline is structured into the following key components:
 
 Web Scraping (Data Ingestion):
 
+
+https://github.com/user-attachments/assets/f9bd4d81-0c13-420f-b41a-622e3d511571
+
+
 Technology: Python scripts.
 
 Purpose: Extracts raw book information (titles, authors, prices, etc.) from a specified website.
