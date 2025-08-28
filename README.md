@@ -110,6 +110,10 @@ Start the local Airflow environment:
 
 astro dev start
 
+Uploading Docker_Desktop_8hmsZSrNnl.mp4…
+
+
+
 Access Airflow UI: Open your browser to http://localhost:8080 (or the port indicated by astro dev start).
 
 Unpause and Trigger DAGs: Unpause your relevant DAGs in the Airflow UI and trigger them manually to observe the full pipeline execution (scraping -> dbt).
