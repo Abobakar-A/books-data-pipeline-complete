@@ -1,16 +1,11 @@
 -- models/marts/dim_books.sql
 
+-- هذا النموذج يستخدم فقط الأعمدة المتاحة في النموذج المرحلي.
 SELECT
     book_id,
     title,
-    author,
     rating,
     price,
-    is_available,
-    num_reviews,
-    description,
-    image_url,
-    book_url,
     -- إضافة عمود جديد لتصنيف السعر
     CASE
         WHEN price < 15.00 THEN 'Low'

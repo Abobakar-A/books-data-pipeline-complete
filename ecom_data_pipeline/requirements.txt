@@ -3,4 +3,4 @@ requests
 beautifulsoup4
 apache-airflow-providers-google
 apache-airflow-providers-snowflake
-
+dbt-snowflake

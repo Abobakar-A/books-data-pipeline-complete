@@ -2,7 +2,7 @@ name: 'books_data_transformations' # تأكد أن هذا يطابق اسم مش
 version: '1.0.0'
 config-version: 2
 
-profile: 'books_data_transformations' # تأكد أن هذا يطابق اسم ملف تعريف الاتصال الخاص بك
+profile: 'my_new_dbt_project' # تأكد أن هذا يطابق اسم ملف تعريف الاتصال الخاص بك
 
 model-paths: ["models"]
 analysis-paths: ["analyses"]
