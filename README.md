@@ -8,10 +8,14 @@ Architecture & Components
 The pipeline is structured into the following key components:
 
 
-Uploading Docker_Desktop_8hmsZSrNnl.mp4…
+https://github.com/user-attachments/assets/3896e8a0-eccc-497a-9b42-6f3b1ed26d9a
 
 
 Web Scraping (Data Ingestion):
+
+Uploading Docker_Desktop_8hmsZSrNnl.mp4…
+
+
 
 
 https://github.com/user-attachments/assets/f9bd4d81-0c13-420f-b41a-622e3d511571
