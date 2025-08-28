@@ -7,6 +7,10 @@ This project aims to automate the process of collecting structured data about bo
 Architecture & Components
 The pipeline is structured into the following key components:
 
+
+Uploading Docker_Desktop_8hmsZSrNnl.mp4…
+
+
 Web Scraping (Data Ingestion):
 
 
