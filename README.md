@@ -21,6 +21,10 @@ Uploading Docker_Desktop_8hmsZSrNnl.mp4…
 https://github.com/user-attachments/assets/f9bd4d81-0c13-420f-b41a-622e3d511571
 
 
+https://github.com/user-attachments/assets/6b1012f0-b926-446c-b915-bfe2b7f63e4f
+
+
+
 Technology: Python scripts.
 
 Purpose: Extracts raw book information (titles, authors, prices, etc.) from a specified website.
